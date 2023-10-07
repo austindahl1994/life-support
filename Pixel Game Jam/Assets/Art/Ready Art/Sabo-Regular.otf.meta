@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad563c628cb95c241bacebd14fb5869e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sabo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c7e1be9859997ee49a5647e1a4033d26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
