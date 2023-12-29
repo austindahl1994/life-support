@@ -98,7 +98,7 @@ public class pinPad : MonoBehaviour
             }
         }
 
-        if (matchesGood)
+        if (matchesGood && nums.Count == 4)
         {
             correct();
         }
